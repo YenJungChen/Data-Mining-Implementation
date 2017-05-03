@@ -1,5 +1,6 @@
 # Clustering
 Data Mining Implementation in C++
+
 1. K-means Clustering
 2. GRASP Clustering (Greedy Randomized Adaptive Search Procedure)
 
